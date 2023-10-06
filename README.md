@@ -29,6 +29,5 @@ Se han generado 3 ficheros:
    -  Variaciones de NDVI por barrios
    -  Evolución de las series temporales.
   
-  Adicionalmente se dejan los ficheros de trabajo. 
    
      
